@@ -1,6 +1,6 @@
 # [Loading Taxi Data into Google Cloud SQL](https://www.cloudskillsboost.google/games/5521/labs/35625)
 
-## Solution [here](https://youtu.be/it72NG_h_XY)
+# # Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers_ts](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
 
 ### Run the following Commands in CloudShell
 
@@ -64,12 +64,10 @@ create table trips (
 );
 ```
 
-### Congratulations 🎉 for completing the Lab !
+# Congratulations ..!!🎉  You completed the lab shortly..😃💯
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+# *Well done..!* 👏
 
-#### *Well done!*
+# Thank you for visiting.... :) 🗯️
 
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+# [Qwiklab_Explorers_ts](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN)
